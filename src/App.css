@@ -1,7 +1,19 @@
 .App {
   text-align: center;
 }
-
+h1 {
+  color: #82b7d6;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgba(143, 143, 136, 0.301);
+  text-align: center;
+  border-color: rgb(65, 58, 53);
+  border-width: 5px;
+  padding: 10px;
+  margin: 50px;
+  border-radius: 7px;
+  box-shadow: 2px 2px 2px 2px #82b7d6;
+  font-size: large;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
